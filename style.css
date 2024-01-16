@@ -1,0 +1,37 @@
+.heading
+{
+    font-size: 24px;
+    width: 100%;
+    box-shadow: 5px 5px 5px black;
+    color:white;
+    margin: 0px;
+    background-color: chocolate;
+}
+.note
+{
+    color: white;
+    font-size: 15px;
+}
+.footer
+{
+    position: fixed;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    background-color: gray;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    box-shadow: 5px 5px 5px black;
+}
+#sq_size
+{
+    font-size: 26px;
+    color: black;
+}
+canvas
+{
+    box-shadow: 5px 5px 5px black;
+    border-radius: 20px;
+    border: 2px solid black;
+}
